@@ -1,5 +1,5 @@
 # Hello, im XIMI. Malware Researcher and Reverse Engineer 
 ---
-![](https://metrics.lecoq.io/chaytuta12456789?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&languages=1&languages.limit=8&languages.colors=github&config.timezone=Asia%2FHo_Chi_Minh)
+![](https://github-readme-tech-stack.vercel.app/api/cards/top-languages?username=chaytuta12456789&theme=tokyonight)
 
 
