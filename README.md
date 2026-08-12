@@ -1,7 +1,5 @@
 # Hello, im XIMI. Malware Researcher and Reverse Engineer 
 ---
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chaytuta12456789&theme=dracula" alt="Top Languages" />
-</p>
+![](https://metrics.lecoq.io/YOUR_GITHUB_USERNAME?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&languages=1&languages.limit=8&languages.colors=github&config.timezone=Asia%2FHo_Chi_Minh)
 
 
